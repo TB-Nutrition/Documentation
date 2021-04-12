@@ -1,2 +1,2 @@
-# Documentation
-Repository to host our Documentation and Resources Github page
+# TB Nutrition Documentation
+Documentation and Resources Github page for the TB Nutrition work group.
