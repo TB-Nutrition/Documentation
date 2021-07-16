@@ -15,5 +15,5 @@ Example:
 🚧 Work in progress.
 
 ## 3. Repositories
-The main repository for SAMPA is https://github.com/TB-Nutrition/SAMPA.  
-The documentation for this project, and others from the TB-Nutrition group are hosted on this repository: https://github.com/TB-Nutrition/Documentation/
+The main repository for SAMPA is [https://github.com/TB-Nutrition/SAMPA](https://github.com/TB-Nutrition/SAMPA).  
+The documentation for this project, and others from the TB-Nutrition group are hosted on this repository: [https://github.com/TB-Nutrition/Documentation/](https://github.com/TB-Nutrition/Documentation/)
