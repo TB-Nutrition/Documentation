@@ -18,3 +18,8 @@ This gives a concrete overview of the different useful features of Github (about
 
 ### On Stata programming
 1. [Stata in Atom](https://slackner.com/2018/03/02/stata-in-atom/)
+
+
+## SAMPA
+
+[Link to the SAMPA data management documentation](./sampa-dm)
